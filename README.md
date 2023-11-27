@@ -23,7 +23,7 @@ This challenge is apart of the coding bootcamp. Its purpose is to utilize third 
 
 
 ## Installation
-No installation required 
+No installation required
 
 ## Usage
 To view the project just use the link below to see the page on github pages!
